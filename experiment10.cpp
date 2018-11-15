@@ -40,3 +40,4 @@ int main()
         cout << C[i] << " ";
     cout << endl << X;
     return 0; }
+
