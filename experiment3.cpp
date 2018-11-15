@@ -56,3 +56,4 @@ int main()
     cout<<"Number found at index "<<result<<endl;
 	return 0;
 }
+
