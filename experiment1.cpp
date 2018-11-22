@@ -34,7 +34,7 @@ int main()
 				break;
 			case 2:
 				cout<<"Enter the position from which you want to delete the element"<<endl;
-				int p;
+				int p; 
 				cin>>p;
 				for(int i=p-1;i<n;i++)
 				{
